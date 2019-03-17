@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="@string/checkboxkey"
+        android:title="@string/checkbox_label"
+        android:defaultValue="@bool/toggle_default_value"
+        android:summaryOn="@string/checkboxSummayOn"
+        android:summaryOff="@string/checkboxSummaryOff" />
+
+    <SwitchPreference
+        android:key="@string/switchkey"
+        android:title="@string/switch_label"
+        android:defaultValue="@bool/toggle_default_value"
+        android:summaryOn="@string/switchSummaryOn"
+        android:summaryOff="@string/switchSummaryOff" />
+
+    <ListPreference
+        android:key="@string/color_list_key"
+        android:title="@string/color_list_label"
+        android:defaultValue="red"
+        android:entries="@array/array_entries"
+        android:entryValues="@array/array_entry_values"/>
+
+    <EditTextPreference
+        android:key="@string/edittext_key"
+        android:title="@string/edittext_label"
+        android:defaultValue="@string/editText_defaultValue" />
+
+</PreferenceScreen>

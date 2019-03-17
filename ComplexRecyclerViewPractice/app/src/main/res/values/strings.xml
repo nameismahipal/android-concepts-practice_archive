@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="user_first_name">First Name</string>
+    <string name="user_last_name">Last Name</string>
+</resources>

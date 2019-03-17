@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PreferencesExample</string>
+    <string name="checkboxkey">check-pref-key</string>
+    <string name="switchkey">switch-pref-key</string>
+    <string name="checkbox_label">CheckBox</string>
+    <string name="checkboxSummayOn">ON</string>
+    <string name="checkboxSummaryOff">OFF</string>
+    <string name="switch_label">Switch</string>
+    <string name="switchSummaryOn">ON</string>
+    <string name="switchSummaryOff">OFF</string>
+    <string name="color_list_label">List</string>
+    <string name="edittext_label">EditText</string>
+    <string name="editText_defaultValue">12</string>
+    <string name="list_defaultValue">12</string>
+    <string name="color_list_key">color-key</string>
+    <string name="edittext_key">edit-text-key</string>
+</resources>
