@@ -6,9 +6,9 @@ https://www.androidcitizen.com/activity-lifecycle/
 
 ## Lifecycle States
 
-![LifeCycle-1](https://github.com/sayaMahi/LifeCycleStates/blob/master/art/lifecycle1.jpg)
+![LifeCycle-1](../../art/lifecycle1.jpg)
 
 
 ## Different States while Navigating App
 
-![LifeCycle-2](https://github.com/sayaMahi/LifeCycleStates/blob/master/art/lifecycle2.jpg)
+![LifeCycle-2](art/lifecycle2.jpg)
