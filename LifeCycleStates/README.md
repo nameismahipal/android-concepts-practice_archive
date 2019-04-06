@@ -85,7 +85,7 @@ for example
 #### onStop()
 The fragment isn't visible. Either the host activity has been stopped or the fragment has been removed from the activity but added to the back stack. A stopped fragment is still alive (all state and member information is retained by the system). However, it is no longer visible to the user and is killed if the activity is killed.
 
-#### nDestroyView()
+#### onDestroyView()
 - Called when the view hierarchy associated with the fragment is being removed.
 #### onDetach()
 - Called when the fragment is being disassociated from the activity.
