@@ -12,8 +12,8 @@ https://www.androidcitizen.com/activity-lifecycle/
 
 
 <figure>
-   <img src="art/activity.png" alt="Activity" style="width:40%;height:400px;display: inline-block;">
-   <img src="art/fragment.png" alt="Fragment"style="width:40%;height:400px;display: inline-block;">
+   <img src="art/activity.png" alt="Activity" style="width:200px;height:400px;display: inline;">
+   <img src="art/fragment.png" alt="Fragment"style="width:200px;height:400px;display: inline;">
 
   <figcaption>Activity/Fragment Lifecycle. Source - <a href="http://udacity.com">Udacity</a></figcaption>
 </figure>
